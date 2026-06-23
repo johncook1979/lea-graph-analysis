@@ -1,4 +1,4 @@
-### Bidirectional Differential Trails for 24-bit Windowed LEA256 - Cluster Analysis
+### Bidirectional Differential Trails for LEA256 - Cluster Analysis
 
 | Rnd          | $\Delta$ b0 | $\Delta$ b1 | $\Delta$ b2 | $\Delta$ b3 |    wt |
 |--------------|-------------|-------------|-------------|-------------|------:|
