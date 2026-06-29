@@ -19,4 +19,4 @@ If you intend on using this repository, we request that you reference it using t
 
 
 ***
-
+Our previous work can be found [here](https://github.com/johncook1979/simon-cryptanalysis)
